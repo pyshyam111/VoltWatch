@@ -72,12 +72,8 @@ com.example.voltwatch
 ├── viewmodel/ # ViewModel layer
 ├── utils/ # Helpers (Notification, AI)
 └── MainActivity.kt
-
-
 ---
-
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
-```bash
 git clone https://github.com/your-username/VoltWatch.git
