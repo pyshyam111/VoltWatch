@@ -76,4 +76,4 @@ com.example.voltwatch
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
-git clone https://github.com/your-username/VoltWatch.git
+git clone https://github.com/pyshyam111/VoltWatch.git
